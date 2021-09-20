@@ -1,5 +1,5 @@
 # lovEasy (Project Proposal)
-By David Iosilevich (di492), Sunny Dhindsa (sd3692)
+By David Iosilevich (di492), Sunny Dhindsa (sd3692), Ryeem Zia (rz1335)
 
 ### What and why?
 In 2021, there are an array of dating apps all with the same format: swiping through those profiles who are close to you in distance. The problem with this traditional approach, however, is that great matches for you are lost in a sea of profiles who may not be best suited for you. 
