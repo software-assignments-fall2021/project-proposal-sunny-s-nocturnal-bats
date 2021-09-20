@@ -1,3 +1,3 @@
 # Project Proposal
 
-Sunny Dhindsa (sd3692), David Iosiledich (di492)
+Sunny Dhindsa (sd3692), David Iosilevich (di492)
