@@ -1,11 +1,13 @@
 # lovEasy (Project Proposal)
 By David Iosilevich (di492), Sunny Dhindsa (sd3692)
 
+<hr>
+
 ### What and why?
 In 2021, there are an array of dating apps all with the same format -- swiping through those profiles who are close to you in distance. The problem with this traditional approach, however, is that great matches for you are lost in a sea of profiles who may not be best suited for you. 
 
-But, what if you had an app that did the work for you?
-What if the app was able to match you with great connections based on science? 
+* But, what if you had an app that did the work for you?
+* What if the app was able to match you with great connections based on science? 
 
 Such an app would facilitate the way such options are presented by offering a number of visual UX differences along with alternative methods of data collection. The great thing about this approach is that instead of swiping through everybody like a traditional dating app, lovEasy takes a much more calculated approach to matching you with people who you would actually be interested in. It takes much of the guesswork out of dating apps and ensures you’re dating with more purpose, without wasting your time swiping through thousands of profiles you may not be interested in. 
 
